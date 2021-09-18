@@ -1,4 +1,4 @@
-## Pima Indian Women Diabetes Data
+## EDA and Prediction of Diabetes
 
 # Table of contents
 
